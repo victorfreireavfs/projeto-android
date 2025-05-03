@@ -15,11 +15,11 @@ Este projeto foi criado como parte dos estudos iniciais de HTML e CSS. É uma la
 - Responsividade básica.
 
 ## 📸 Preview
-
-![Preview do projeto](./assets/imagens/preview1.png)
-![Preview do projeto](./assets/imagens/preview2.png)
-![Preview do projeto](./assets/imagens/preview3.png)
-
+<p >
+![Preview do projeto](/imagens/preview1.png)
+![Preview do projeto](/imagens/preview2.png)
+![Preview do projeto](/imagens/preview3.png)
+</p>
 ## 🌐 Acesse o projeto online
 
 👉 [Acesse aqui no GitHub Pages](https://victorfreireavfs.github.io/projeto-android/)
