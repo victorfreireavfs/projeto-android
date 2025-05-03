@@ -15,9 +15,9 @@ Este projeto foi criado como parte dos estudos iniciais de HTML e CSS. É uma la
 - Responsividade básica.
 
 ## 📸 Preview
-![Preview do projeto](/imagens/preview1.png)
-![Preview do projeto](/imagens/preview2.png)
-![Preview do projeto](/imagens/preview3.png)
+<img src="/imagens/preview1.png" alt="Preview do projeto" width="400px">
+<img src="/imagens/preview2.png" alt="Preview do projeto" width="400px">
+<img src="/imagens/preview3.png" alt="Preview do projeto" width="400px">
 
 ## 🌐 Acesse o projeto online
 
