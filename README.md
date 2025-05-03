@@ -16,7 +16,9 @@ Este projeto foi criado como parte dos estudos iniciais de HTML e CSS. É uma la
 
 ## 📸 Preview
 
-![Preview do projeto](./assets/imagens/preview-android.png)
+![Preview do projeto](./assets/imagens/preview1.png)
+![Preview do projeto](./assets/imagens/preview2.png)
+![Preview do projeto](./assets/imagens/preview3.png)
 
 ## 🌐 Acesse o projeto online
 
