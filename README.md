@@ -15,9 +15,11 @@ Este projeto foi criado como parte dos estudos iniciais de HTML e CSS. É uma la
 - Responsividade básica.
 
 ## 📸 Preview
+<div style="display: flex; gap: 10px;">
 <img src="/imagens/preview1.png" alt="Preview do projeto" width="400px">
 <img src="/imagens/preview2.png" alt="Preview do projeto" width="400px">
 <img src="/imagens/preview3.png" alt="Preview do projeto" width="400px">
+</div>
 
 ## 🌐 Acesse o projeto online
 
